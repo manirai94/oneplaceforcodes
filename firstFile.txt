@@ -6,3 +6,6 @@ How to craete a repository.
 
 
 create a file
+
+
+commit
