@@ -11,8 +11,18 @@ create a file
 commit
 
 
+
+feature1 
+
+feature 2-b1
+
+feature 5-b1
+
+feature 6-b1
+
 feature1 -m
 
 feature3 -m
 
 feature4 -m
+
